@@ -1,5 +1,5 @@
 # hello-git-world
-# vnu
-demo github
+@vnu
 
+demo github
 this repository that use to learn github
